@@ -2,7 +2,9 @@
 
 Vue Time Picker Pro is a customizable time picker component for Vue 3 that supports 12-hour format with AM/PM and returns 24-hour format data suitable for database storage.
 
-![Vue Time Picker Pro Demo](https://i.imgur.com/FZEpuVx.png)
+![Vue Time Picker Pro Demo 1](https://raw.githubusercontent.com/BeBeeTheBoss/vue-time-picker/refs/heads/main/public/demo1.png)
+![Vue Time Picker Pro Demo 2](https://raw.githubusercontent.com/BeBeeTheBoss/vue-time-picker/refs/heads/main/public/demo2.png)
+![Vue Time Picker Pro Demo 3](https://raw.githubusercontent.com/BeBeeTheBoss/vue-time-picker/refs/heads/main/public/demo3.png)
 
 ## Installation
 
