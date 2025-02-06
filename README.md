@@ -35,7 +35,7 @@ Here is an example of how to use the Vue Time Picker Pro component in your templ
 ```html
 <template>
   <div>
-    <vue-time-picker-pro v-model="time" />
+    <vue-time-picker-pro v-model="time"/>  //you can add color string or color code with bg attr eg: bg="black", bg="8C271E"
   </div>
 </template>
 
