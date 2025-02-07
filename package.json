@@ -5,10 +5,10 @@
   "type": "module",
   "main": "dist/vue-time-picker-pro.umd.js",
   "module": "dist/vue-time-picker-pro.esm.js",
+  "types": "dist/vue-time-picker-pro.d.ts",
   "exports": {
     "import": "./dist/vue-time-picker-pro.esm.js",
-    "require": "./dist/vue-time-picker-pro.umd.js",
-    "css": "./dist/vue-time-picker-pro.css"
+    "require": "./dist/vue-time-picker-pro.umd.js"
   },
   "files": [
     "dist",
