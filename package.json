@@ -1,6 +1,6 @@
 {
   "name": "vue-time-picker-pro",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "private": false,
   "type": "module",
   "main": "dist/vue-time-picker-pro.cjs.js",
