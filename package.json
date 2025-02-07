@@ -7,7 +7,8 @@
   "module": "dist/vue-time-picker-pro.esm.js",
   "exports": {
     "import": "./dist/vue-time-picker-pro.esm.js",
-    "require": "./dist/vue-time-picker-pro.umd.js"
+    "require": "./dist/vue-time-picker-pro.umd.js",
+    "css": "./dist/vue-time-picker-pro.css"
   },
   "files": [
     "dist",
