@@ -5,7 +5,6 @@
   "type": "module",
   "main": "dist/vue-time-picker-pro.umd.js",
   "module": "dist/vue-time-picker-pro.esm.js",
-  "unpkg": "dist/vue-time-picker-pro.min.js",
   "exports": {
     "import": "./dist/vue-time-picker-pro.esm.js",
     "require": "./dist/vue-time-picker-pro.umd.js"
@@ -13,8 +12,7 @@
   "files": [
     "dist",
     "src",
-    "README.md",
-    "demo.png"
+    "README.md"
   ],
   "scripts": {
     "serve": "vue-cli-service serve",
