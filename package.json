@@ -1,23 +1,20 @@
 {
   "name": "vue-time-picker-pro",
-  "version": "1.0.23",
+  "version": "1.1.0",
   "private": false,
   "type": "module",
-  "main": "dist/vue-time-picker-pro.cjs.js",
+  "main": "dist/vue-time-picker-pro.umd.js",
   "module": "dist/vue-time-picker-pro.esm.js",
-  "exports": {
-    ".": {
-      "import": "./dist/vue-time-picker-pro.esm.js",
-      "require": "./dist/vue-time-picker-pro.cjs.js"
-    }
-  },
+  "unpkg": "dist/vue-time-picker-pro.min.js",
   "files": [
-    "dist",
-    "src",
+    "dist/*",
+    "src/*",
     "README.md"
   ],
   "scripts": {
-    "build": "vite build"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --target lib --name vue-time-picker-pro src/main.js",
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "vue": "^3.5.13"
